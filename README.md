@@ -38,3 +38,36 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/bui
 =======
 # googleAuthNextjs
 >>>>>>> 4887a5a6f804d3e22d859b0386d104ef7b3467af
+>>>>>>> # Google Auth App — Web + Mobile
+
+This project is a **full-stack authentication system** featuring:
+
+- A **Next.js** web app using **Material UI (MUI)** with **Google Sign-Up**
+- A **React Native Expo Android app** that wraps the web app via **WebView**
+- Integrated **Firebase Cloud Messaging (FCM)** for **native push notifications**
+
+---
+
+## 🔥 Features
+
+### 🌐 Web App (Next.js + MUI)
+- Google Sign-In via Firebase
+- Deployed via **Vercel**
+- Mobile-responsive design using **Material UI**
+- Secure OAuth setup with authorized domain
+
+### 📱 Mobile App (Expo)
+- Built using **Expo + React Native**
+- Integrates web app via **WebView**
+- Native push notifications using **Firebase Cloud Messaging (FCM)**
+- Built with **EAS Build** and **native prebuild**
+
+---
+
+## 📂 Folder Structure
+
+```bash
+google-auth-project/
+├── web/      → Next.js + MUI + Firebase Auth (Web App)
+├── mobile/   → Expo + WebView + FCM (Android App)
+
