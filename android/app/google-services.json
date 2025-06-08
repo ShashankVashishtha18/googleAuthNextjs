@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "779585028630",
+    "project_id": "sign-in-8a5a3",
+    "storage_bucket": "sign-in-8a5a3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:779585028630:android:0a773f0881d587efe66b37",
+        "android_client_info": {
+          "package_name": "com.anonymous.nextjsfirebaseauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "779585028630-91g4jl03s20efa0j61kdi5031dpoaj8s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClp3ow8LYu4dW4OwPY2Rjdw3j47pfRfo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "779585028630-91g4jl03s20efa0j61kdi5031dpoaj8s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
